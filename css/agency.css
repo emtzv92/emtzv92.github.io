@@ -9,7 +9,11 @@ p.large{font-size:16px}
 a,a:hover,a:focus,a:active,a.active{outline:0}
 a{color:#fed136}
 a:hover,a:focus,a:active,a.active{color:#999900}
-h1,h2,h3,h4,h5,h6{font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:700}
+h1,h2,h3,h4,h5,h6{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-transform: none;
+	font-weight: 700
+}
 .img-centered{margin:0 auto}
 .bg-light-gray{background-color:#f7f7f7}
 .bg-darkest-gray{background-color:#222}
